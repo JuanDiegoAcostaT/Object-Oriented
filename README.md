@@ -1,4 +1,4 @@
-# Grid Layout
+# POO
 Object-oriented application that stores and groups products or objects for administration.
 
 - Javascript
